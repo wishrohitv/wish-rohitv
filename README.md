@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, App Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on App development
-- 📫 How to reach me call me
+- 📫 How to reach me, then call me
 
 <!---
 wish-rohitv/wish-rohitv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
