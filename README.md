@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wish-rohitv
 - 👀 I’m interested in AI, App Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C++
 - 💞️ I’m looking to collaborate on App development
 - 📫 How to reach me, then call me
 
